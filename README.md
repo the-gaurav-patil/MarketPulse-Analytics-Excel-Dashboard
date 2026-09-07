@@ -61,15 +61,15 @@ Returning customers generated approximately **$247.4K**, significantly exceeding
 
 ### Page 1 — Dashboard
 
-![MarketPulse Analytics Dashboard](https://raw.githubusercontent.com/Muhammad-Jan/Marketpulse-Analytics-Dashboard/main/Page1.png)
+![MarketPulse Analytics Dashboard](https://github.com/the-gaurav-patil/MarketPulse-Analytics-Excel-Dashboard/blob/main/Page1.png)
 
 ### Page 2 — Profitability
 
-![MarketPulse Analytics Profitability](https://raw.githubusercontent.com/Muhammad-Jan/Marketpulse-Analytics-Dashboard/main/Page2.png)
+![MarketPulse Analytics Profitability](https://github.com/the-gaurav-patil/MarketPulse-Analytics-Excel-Dashboard/blob/main/Page2.png)
 
 ### Page 3 — Operations
 
-![MarketPulse Analytics Operations](https://raw.githubusercontent.com/Muhammad-Jan/Marketpulse-Analytics-Dashboard/main/Page3.png)
+![MarketPulse Analytics Operations](https://github.com/the-gaurav-patil/MarketPulse-Analytics-Excel-Dashboard/blob/main/Page3.png)
 
 ---
 
@@ -78,10 +78,9 @@ Returning customers generated approximately **$247.4K**, significantly exceeding
 | File | Description |
 |------|-------------|
 | 📄 [Dataset.csv](https://github.com/Muhammad-Jan/Marketpulse-Analytics-Dashboard/blob/main/Dataset.csv) | Raw dataset used for the analysis |
-| 📊 [MarketPulse Analytics.xlsx](https://github.com/Muhammad-Jan/Marketpulse-Analytics-Dashboard/blob/main/MarketPulse%20Analytics.xlsx) | Excel workbook containing the analysis and dashboard |
-| 🖼️ [Page1.png](https://github.com/Muhammad-Jan/Marketpulse-Analytics-Dashboard/blob/main/Page1.png) | Dashboard page screenshot |
-| 🖼️ [Page2.png](https://github.com/Muhammad-Jan/Marketpulse-Analytics-Dashboard/blob/main/Page2.png) | Profitability page screenshot |
-| 🖼️ [Page3.png](https://github.com/Muhammad-Jan/Marketpulse-Analytics-Dashboard/blob/main/Page3.png) | Operations page screenshot |
+| 🖼️ [Page1.png](https://github.com/the-gaurav-patil/MarketPulse-Analytics-Excel-Dashboard/blob/main/Page1.png) | Dashboard page screenshot |
+| 🖼️ [Page2.png](https://github.com/the-gaurav-patil/MarketPulse-Analytics-Excel-Dashboard/blob/main/Page2.png) | Profitability page screenshot |
+| 🖼️ [Page3.png](https://github.com/the-gaurav-patil/MarketPulse-Analytics-Excel-Dashboard/blob/main/Page3.png) | Operations page screenshot |
 
 ---
 
