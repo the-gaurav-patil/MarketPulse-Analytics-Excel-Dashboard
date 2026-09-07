@@ -77,7 +77,7 @@ Returning customers generated approximately **$247.4K**, significantly exceeding
 
 | File | Description |
 |------|-------------|
-| 📄 [Dataset.csv](https://github.com/Muhammad-Jan/Marketpulse-Analytics-Dashboard/blob/main/Dataset.csv) | Raw dataset used for the analysis |
+| 📄 [Dataset.csv](https://github.com/the-gaurav-patil/MarketPulse-Analytics-Excel-Dashboard/blob/main/Dataset.csv) | Raw dataset used for the analysis |
 | 🖼️ [Page1.png](https://github.com/the-gaurav-patil/MarketPulse-Analytics-Excel-Dashboard/blob/main/Page1.png) | Dashboard page screenshot |
 | 🖼️ [Page2.png](https://github.com/the-gaurav-patil/MarketPulse-Analytics-Excel-Dashboard/blob/main/Page2.png) | Profitability page screenshot |
 | 🖼️ [Page3.png](https://github.com/the-gaurav-patil/MarketPulse-Analytics-Excel-Dashboard/blob/main/Page3.png) | Operations page screenshot |
